@@ -1,7 +1,7 @@
 [
   {
     "id": "LiquidAI/LFM2.5-VL-1.6B-GGUF/LFM2.5-VL-1.6B-Q4_0.gguf",
-    "name": "LFM 2.5 VL (1.6B)",
+    "name": "LFM 2.5 VL (1.6B)дсф",
     "description": "An updated vision-language model with enhanced multilingual vision understanding.",
     "size": 695752480,
     "iconUrl": "liquid",
@@ -20,7 +20,7 @@
       "ios"
     ],
     "isOnboarding": false,
-    "updatedAt": "2026-07-15T23:15:59.068Z"
+    "updatedAt": "2026-07-15T23:18:07.101Z"
   },
   {
     "id": "LiquidAI/LFM2.5-1.2B-Thinking-GGUF/LFM2.5-1.2B-Thinking-Q4_K_M.gguf",
